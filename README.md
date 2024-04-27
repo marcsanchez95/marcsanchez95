@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc Sánchez Moreno</h1>
 <h3 align="center">A passionate backend developer from Barcelona</h3>
 
-- 🔭 I’m currently working on [ita-challenges-backend]((https://github.com/IT-Academy-BCN/ita-challenges-backend))
+- 🔭 I’m currently working on [ita-challenges-backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
 
 - 🌱 I’m currently learning **Java security and testing**
 
