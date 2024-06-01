@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ita-challenges-backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
 
-- 🌱 I’m currently learning **Java security and testing**
+- 🌱 I’m currently learning **Java security at SpringBoot and design patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcsanchez95](https://github.com/marcsanchez95)
 
